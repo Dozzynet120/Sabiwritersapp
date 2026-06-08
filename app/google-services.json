@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884733259326",
+    "project_id": "sabiwritersapp",
+    "storage_bucket": "sabiwritersapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884733259326:android:61d1717379a9dd9eccab6f",
+        "android_client_info": {
+          "package_name": "com.peterclement.sabiwritersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHadiAaqdZbW0rMpLssgPbh59xLDfsHaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
